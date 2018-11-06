@@ -15,8 +15,3 @@ This is the hw01 sample. Please follow the steps below.
 2. Make and run like the steps above.
 
 **Notice that if you are going to add another source file or header files, you will have to modify the content of makefile.**
-
-# HW01 Requirements
-1. Help me finish here. Thx
-2. We are going to practice some C skills about function pointers and arrays of function pointers.
-3. You have to push your code to your github. (Using .gitignore to exclude the outpufiles like object files or executable files)
