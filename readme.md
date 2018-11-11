@@ -8,7 +8,7 @@ This is the hw01 sample. Please follow the steps below.
 3. Under the hw01 dir, use:
     * `make` to build.
 	* `make clean` to clean the ouput files.
-4. After make, you can run the program by `./main.elf` nnder the hw01 dir.
+4. After make, you can run the program by `./main.elf` under the hw01 dir.
 
 # Build Your Own Program
 1. Edit main.c file. (Practice to use vim)
