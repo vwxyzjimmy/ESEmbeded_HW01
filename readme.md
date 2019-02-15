@@ -19,4 +19,4 @@ This is the hw01 sample. Please follow the steps below.
 # HW01 Requirements
 1. We are going to practice some C skills about function pointers and arrays of function pointers, please modify main.c with arrays of function pointers to simplify the code.
 2. You have to push your code to your github. (Using .gitignore to exclude the outpufiles like object files or executable files)
-3. Make sure hand in your github account on moodle.
+3. Make sure to hand in your github account to moodle.
